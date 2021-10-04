@@ -52,16 +52,16 @@ Since agents may fail or lie, a consensus protocol has to be fault tolerant.
 
 
 
-| Algorithm | Snow | Proof-of-Weight | Byzantine | Proof-of-Stake |
+| Algorithm | Snow | Proof-of-Weight | Byzantine  | Proof-of-Stake |
 | :--- | :--- | :--- | :--- | :--- |
-| Project | Avalanche | Algorand | Tendermint |  |
-| Permissioned | Hybrid | No |  |  |
-| Leaderless |  | No |  |  |
+| Project | Avalanche | Algorand | Tendermint \(binance\) |  |
+| Permissioned | Hybrid | No | Yes |  |
+| Leaderless | Yes | No |  |  |
 | Committee \(size\) |  | Yes \(1,000\) |  |  |
-| Max block size \(MB\) |  | 1 |  |  |
-| Transaction per second |  | 1,200  |  |  |
-| Instant finality |  | Yes |  |  |
-| Block time \(seconds\) |  | 5 |  |  |
+| Max block size \(MB\) | 1 | 1 |  |  |
+| Transaction per second | 1,900 | 1,200  | 100 |  |
+| Instant finality | Near | Near | Near |  |
+| Block time \(seconds\) |  | 4.37 |  |  |
 | Sybil attacks |  | OK \(up to 2/3\) |  |  |
 | DDoS |  | OK |  |  |
 | Network partitioning |  | OK |  |  |
@@ -71,4 +71,5 @@ Since agents may fail or lie, a consensus protocol has to be fault tolerant.
 | Selective censorship |  |  |  |  |
 | Poisoning threshold |  |  |  |  |
 | Objective/Subjective | Subjective |  |  |  |
+| Smart-contract support | Yes |  | Yes |  |
 

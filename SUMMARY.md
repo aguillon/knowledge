@@ -6,6 +6,7 @@
 
 * [Consensus algorithm](consensus/consensus-algorithm.md)
 * [Picking a consensus algorithm](consensus/picking-a-consensus-algorithm.md)
+* [Need for consensus](consensus/need-for-consensus.md)
 * [Vocabulary](consensus/vocabulary/README.md)
   * [Network partion/Synchronicity](consensus/vocabulary/network-partion-synchronicity.md)
   * [Distributed Denied of Service](consensus/vocabulary/distributed-denied-of-service.md)

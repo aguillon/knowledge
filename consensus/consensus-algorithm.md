@@ -70,6 +70,6 @@ Since agents may fail or lie, a consensus protocol has to be fault tolerant.
 | Liveness |  |  |  |
 | Selective censorship | No | No | No |
 | Poisoning threshold |  |  |  |
-| Objective/Subjective | Subjective |  |  |
+| Objective/Subjective | Subjective | Weak subjectivity | Weak subjectivity |
 | Smart-contract support | Yes | Yes | Yes |
 

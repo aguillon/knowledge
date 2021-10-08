@@ -82,6 +82,10 @@ Not possible to provoke a fork by convincing honest users to accept 2 different 
 
 {% embed url="https://people.csail.mit.edu/nickolai/papers/gilad-algorand-eprint.pdf" %}
 
+{% embed url="https://arxiv.org/pdf/1901.10019.pdf" %}
+
+
+
 {% embed url="https://arxiv.org/pdf/1607.01341.pdf" %}
 
 
